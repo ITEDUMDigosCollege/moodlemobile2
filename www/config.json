@@ -1,7 +1,8 @@
 {
     "app_id" : "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "appname": "AIEDU Mobile",
+    "desktopappname": "AIEDU Desktop",
+     "siteurl": "https://studyatus.org/",
     "versioncode" : "2019",
     "versionname" : "3.3.1",
     "cache_expiration_time" : 300000,
